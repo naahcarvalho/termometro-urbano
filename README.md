@@ -65,9 +65,12 @@ yarn test
 
 ------------------------------------------------------------------------
 
-## 📸 Screenshot
+## Capturas de Tela 📸
 
-(Adicione aqui uma captura de tela do app rodando)
+<div style="display: flex; justify-content: center; gap: 40px;">
+  <img src="./src/assets/home.png" alt="Tela inicial" width="500" style="border-radius: 12px;" />
+  <img src="./src/assets/clima.png" alt="Resultado da busca" width="500" style="border-radius: 42px;" />
+</div>
 
 ------------------------------------------------------------------------
 
@@ -79,5 +82,7 @@ Desenvolvido por **Nathalia Carvalho** 🚀
 
 ## 📜 Créditos
 
-`<a href="https://www.flaticon.com/free-icons/climate-change" title="climate change icons">`{=html}
-Climate change icons created by Freepik - Flaticon `</a>`{=html}
+<a href="https://www.flaticon.com/free-icons/climate-change" title="climate change icons">
+  Climate change icons  - Flaticon
+</a>
+
