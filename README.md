@@ -1,4 +1,4 @@
-# 🌆☀️ Termômetro Urbano  
+# 🌆 Termômetro Urbano  
 
 Um aplicativo de previsão do tempo desenvolvido em **React + Vite +
 TailwindCSS**.\
