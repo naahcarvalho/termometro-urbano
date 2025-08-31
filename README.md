@@ -44,13 +44,13 @@ utilizando a **API Open-Meteo**.
 3.  Instale as dependências:
 
     ``` bash
-    npm install
+    yarn install
     ```
 
 4.  Inicie o servidor de desenvolvimento:
 
     ``` bash
-    npm run dev
+    yarn dev
     ```
 
 ------------------------------------------------------------------------
@@ -60,7 +60,7 @@ utilizando a **API Open-Meteo**.
 Para rodar os testes unitários:
 
 ``` bash
-npm test
+yarn test
 ```
 
 ------------------------------------------------------------------------
